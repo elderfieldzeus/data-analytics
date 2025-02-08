@@ -1,0 +1,6 @@
+[submodule "Assignments/Assignment_1_Data_Analysis"]
+	path = Assignments/Assignment_1_Data_Analysis
+	url = git@github.com:zeusschoolacc/Assignment_1_Data_Analysis.git
+[submodule "Assignments/PLOTS"]
+	path = Assignments/PLOTS
+	url = git@github.com:zeusschoolacc/PLOTS.git
